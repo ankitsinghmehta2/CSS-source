@@ -1,0 +1,28 @@
+style in our website
+CSS full form Cascading Style Sheets
+
+it is language that is used to describe the style of a document 
+
+basic syntax 
+
+1.including style
+.inline
+<!-- <h1 style="color:red">hello world</h1> -->
+
+2.style tag
+use in html page 
+<!-- <style> -->
+    h1{
+        color;purple;
+    }
+<!-- </style> -->
+
+3.link css with html code 
+<!-- <link rel="stylesheet" href="Style.css"> -->
+selector h1{
+    color:red;
+    (property:value;)
+}
+1.inline
+2.style
+3.external stylesheet

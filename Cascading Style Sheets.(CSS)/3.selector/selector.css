@@ -1,0 +1,27 @@
+/* asterisk */
+/* universal selectors */
+
+*{
+    color: blue;
+}
+
+h1{
+    color: green;
+}
+
+/* last priority will apply */
+h1{
+    color: red;
+}
+
+/* id selector  */
+#heading1{
+    color: rgb(255, 0, 187);
+
+}
+
+
+button{
+    color: rgb(255, 255, 255);
+    background-color: red;
+}

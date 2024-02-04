@@ -1,0 +1,17 @@
+selectors
+1. universal selectors   *=asterisks   &=ampersand
+ *{
+
+ }
+
+2. Element selector
+ h1{}
+
+3.id selector = unique name
+ #id{
+
+ }
+4.class selector
+  .class{
+
+ } 

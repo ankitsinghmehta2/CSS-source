@@ -1,0 +1,23 @@
+color property
+used to set the color of forground
+
+
+
+background-color
+used to set the color of background
+use for background-color
+background-color:ony color;
+
+
+color systems 
+
+RGB
+red ,green,blue
+color:rgb(255,0,0); red
+color:rgb(0,255,0); green
+color:rgb(0,0,255); blue 
+
+hex(hexadecimal)
+color:#ff0000; red
+color:#00ff00;
+color:#0000ff;

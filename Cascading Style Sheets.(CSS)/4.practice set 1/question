@@ -1,0 +1,11 @@
+1.create a simple div with an id "main".
+add one text content inside the div 
+set its background color to blue
+
+2.create 3 heading wuth h1 h2 h3 
+give them all a class "heading " set color of heading to red 
+
+ 3.create a button and set its background color to 
+ green useing css dtylesheet 
+ bule using style tag
+pink using inline style

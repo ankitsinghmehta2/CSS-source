@@ -1,0 +1,15 @@
+1 Textalign
+  textalign left/center/right
+
+2 textdecoration
+    testdecoration underline/overline/linethorugh 
+
+
+3 fontweight
+    fontweight normal/ bold /bolder /lighter 
+      range of fontweight 100-900 
+
+4 fontfamily
+    fontfamily arial
+    fontfamily arial,roboto   =arila fail so apply robote
+   
