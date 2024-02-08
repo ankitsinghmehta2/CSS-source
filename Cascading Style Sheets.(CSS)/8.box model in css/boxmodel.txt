@@ -1,0 +1,20 @@
+box model in CSS
+
+height
+width
+border
+padding
+marginbox 
+
+
+1.Height
+BY DEFAULT IT SET THE CONTENT AREA HEIGHT OF THE ELEMENT
+div{
+    height:50px;
+}
+
+2.width
+by default it set the content area width of the ELEMENT
+div{
+    width:120px;
+}

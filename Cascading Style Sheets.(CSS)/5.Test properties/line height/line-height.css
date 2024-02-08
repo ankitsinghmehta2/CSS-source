@@ -1,0 +1,12 @@
+p{
+    height: 200px;
+    width: 30%;
+    line-height: 20px;
+    /* Text transform */
+   /* text-transform: uppercase/lowercase/capitalize/none; */
+   text-transform: uppercase;
+
+
+}
+
+
