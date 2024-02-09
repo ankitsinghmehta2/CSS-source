@@ -12,6 +12,7 @@ div{
     height:50px;
 }
 
+
 2.width
 by default it set the content area width of the ELEMENT
 div{
