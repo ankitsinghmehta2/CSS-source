@@ -6,7 +6,6 @@ border
 padding
 marginbox 
 
-
 1.Height
 BY DEFAULT IT SET THE CONTENT AREA HEIGHT OF THE ELEMENT
 div{
