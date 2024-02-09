@@ -1,0 +1,16 @@
+/* div{
+    display: inline;
+    background-color: rgb(251, 0, 42);
+}
+button{
+
+    display: block;
+} */
+
+/* inline-block property use */
+div{
+    width: 200px;
+    height: 180px;margin: 20px;
+    padding: 25px;
+    display: inline-block;
+}

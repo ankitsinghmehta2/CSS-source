@@ -1,0 +1,23 @@
+Position
+the postion CSS property sets how an alement is positional in a document\
+
+Position:static/relative/absolute/fixed
+
+top
+right
+bottom
+laft
+
+1.static:-defult position (the top right bottom left and z-index will work)
+
+2.relative :- element is relative to itsef .{the left and z-index will work}
+
+3.absolute :- positionrelative to its closest position ancestor (removed from the flow)
+
+4.fixed :- positionrelative to browser removed from flow 
+
+5.sticky :- position based on user scroll position
+
+z-index
+it desides the stack level of element
+ovrelapping elemnt with a large z-index cover 

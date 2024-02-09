@@ -1,0 +1,10 @@
+Display Property
+
+display:inline/block/inline-block/none
+1.inline-Take only the space require by the element .(no margin/padding)
+
+2.block: takes full space avaible in width
+
+3.inline-block-similar to inline but we can set margin and padding
+
+4.none to remove element form document flow

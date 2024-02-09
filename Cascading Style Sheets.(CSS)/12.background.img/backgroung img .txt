@@ -1,0 +1,8 @@
+backgound{
+    backgound:url(./image.name)
+
+}
+
+2. backgound-size(
+    backgound-size:cover/container/auto;
+)

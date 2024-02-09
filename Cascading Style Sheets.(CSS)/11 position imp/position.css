@@ -1,0 +1,40 @@
+div{
+    margin: 10px;
+  display: inline-block;
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+.box1{
+    position: static;
+}
+.box2{
+    position: relative;
+/* whene you use position: relative you cab use top right z-index */
+    top: 100px;
+}
+.box3{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+.box4{ 
+    right: 0;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
+p{
+    position: absolute;
+}
+
+.box5{
+ 
+    top: 0;
+    position: fixed;
+  
+
+   
+}

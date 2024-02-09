@@ -2,7 +2,22 @@ div{
     background-color: rgb(233, 194, 194);
     height: 120px;
     width: 40%;
+    border: 9px solid rgb(0, 0, 0);
 }
 h1{
     text-align: center;
+}
+.radius{
+    background-color: rgb(233, 194, 194);
+    height: 120px;
+    width: 40%;
+    border: none;
+    border-radius: 50%;
+}
+.div1,.div2,.div3{
+    padding-top: 25px;
+    padding-left: 25px;
+}
+.div1,.div2,.div3{
+    margin: 10px 0 30px 40px;
 }

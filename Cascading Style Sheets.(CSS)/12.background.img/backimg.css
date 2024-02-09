@@ -1,0 +1,11 @@
+.box1{
+    width: 200px;
+    height: 200px;
+    background-image: url("./slider1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+body{
+    background-image: url("./slider1.jpg");
+    background-size: cover;
+}

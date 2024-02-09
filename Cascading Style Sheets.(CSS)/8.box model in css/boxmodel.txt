@@ -18,3 +18,29 @@ by default it set the content area width of the ELEMENT
 div{
     width:120px;
 }
+3.Border
+used to set an element's border
+div{
+    border:width/solid/color;
+}
+border-radius;50%;
+
+
+4.padding
+inside data move
+ padding60px from all side
+ paddind:1px 2px   3px   4px
+        top|right|botton|left =>clockwise
+
+paddingleft
+padingright
+paddingtop
+paddingbottom
+
+
+5.Margin
+box to box outside
+    margin{
+        top|right|botton|left =>clockwise
+    }
+
