@@ -1,0 +1,27 @@
+flex box 
+flexbox layout
+it is one ddemensional layout method for arranging item in row or columns 
+
+flexbox direction
+it set how flex item are placed in the flex container along which axis and direction
+
+used in parent div
+
+flexbox-direction:row(default)
+flexbox-direction:row-reverse
+flexbox-direction:columns
+flexbox-direction:columns-reverse
+
+
+----------------------------------------------------------
+2. flex properties
+for flex container
+
+1. justify-content:alignment along the main axis.
+   flex strt flex-end center space-evenly/
+
+2. fleswrap:nowrap/wrap/wrap-reverse
+
+3. align items:aligment along the cross axis
+
+4. align-content:aligment of sapce betwwen and orund the content

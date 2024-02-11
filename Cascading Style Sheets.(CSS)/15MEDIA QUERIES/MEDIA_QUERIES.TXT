@@ -1,0 +1,14 @@
+MEDIA QUERIES
+help create a reponsive website
+
+@media(width:600){
+    div{
+        backgorung-color:red
+    }
+}
+
+@media(min-width:600px){
+    div{
+        backgorund-color:red
+    }
+}

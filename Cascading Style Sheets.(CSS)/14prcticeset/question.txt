@@ -1,0 +1,6 @@
+
+Qs1- create a navbar with 4 option is the from of anchor tage inside list items now use flexbox to place them all apaced equally in a single line
+
+Qs2 -> use flexbox to center one div inside another div
+
+Qs3 -> whish has higher piority -align item or align-self
