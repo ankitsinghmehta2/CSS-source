@@ -1,4 +1,4 @@
-style in our website
+ style in our website
 CSS full form Cascading Style Sheets
 
 it is language that is used to describe the style of a document 
