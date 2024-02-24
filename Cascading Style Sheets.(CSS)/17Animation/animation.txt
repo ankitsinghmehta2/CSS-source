@@ -1,0 +1,10 @@
+animation
+to animation css element
+@ketframe myname{
+    from{
+        fontsize:20px
+    }
+    to{
+        fontsize:10px
+    }
+}

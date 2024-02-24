@@ -1,0 +1,11 @@
+CSS TRANSFORM
+USED TO APPLY 2D 3D transfromation to an element
+rotate
+transition:rotate(45deg)
+transition:rotateX(45deg)
+transition:rotateY(45deg)
+
+
+SCALE
+transition:SCALE(2)
+

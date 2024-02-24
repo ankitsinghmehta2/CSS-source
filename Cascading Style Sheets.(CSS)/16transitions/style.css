@@ -1,0 +1,36 @@
+div{
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn1{
+    flex-wrap:wrap ;
+    font-size: 20px;
+    font-weight: 500;
+    height: 70px;
+    width: 100px;
+    box-shadow: 10px 10px 10px black;
+    /* transition-property: all;
+    transition-duration: 1s; */
+    /* transition-timing-function:ease-in; */
+    /* transition-delay: 12ms; */
+
+    transition: all 1s ease-in 1s;
+}
+.btn1:hover{
+    color: white;
+    background: forestgreen;
+}
+.btn2{
+    font-size: 20px;
+    font-weight: 500;
+    height: 70px;
+    width: 90px;
+    box-shadow: 10px 10px 10px black;
+}
+.btn2:active{
+    color: white;
+    background: forestgreen;
+}
