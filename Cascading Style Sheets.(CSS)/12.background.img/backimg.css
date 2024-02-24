@@ -5,6 +5,7 @@
     background-size: contain;
     background-repeat: no-repeat;
 }
+
 body{
     background-image: url("./slider1.jpg");
     background-size: cover;
